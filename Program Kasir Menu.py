@@ -76,6 +76,9 @@ def menu_makanan():
             1:11000,
             2:13000,
             3:10000,
+            4:10000,
+            5:7000,
+            6:7000,
         }
         kode_makan = int(input('Ketikkan Kode Makanan: '))
         if kode_makan in makan:
